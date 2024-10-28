@@ -285,6 +285,9 @@ td {
         padding-left: 0;
     }
     td{
-        padding: 2px 20px;
+        padding: 2px 16px;
+    }
+    .dimn-footer{
+        display: none;
     }
 }
